@@ -31,3 +31,7 @@ Support HR in making data-driven retention strategies (e.g., training, salary ad
 ## Dashboard 
 <br>
 https://github.com/SUBHODIP04/HR-attrition-Dashboard/blob/main/Dashboard.png
+
+## Analysis report
+https://github.com/SUBHODIP04/HR-attrition-Dashboard/blob/main/HR_attrition_report.pdf
+
